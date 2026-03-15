@@ -1,0 +1,35 @@
+From: legal <.taylor@enron.com>
+To: legal <.taylor@enron.com>
+Subject: Re: Synchronization Log:
+Message-ID: <3107192.1075858600938.JavaMail.evans@thyme>
+Date: 2001-10-26T16:47:56
+Thread-ID: T-0005
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+18:47:44 Synchronizing Mailbox 'Taylor, Mark E (Legal)'
+18:47:44 Synchronizing Hierarchy
+18:47:45 Synchronizing Favorites
+18:47:45 Synchronizing Folder 'Inbox'
+18:47:51 	   10 item(s) added to offline folder
+18:47:51 	   1 item(s) changed read-state in offline folder
+18:47:51 	   32 item(s) deleted in offline folder
+18:47:51 	   1 view(s)/form(s) updated in offline folder
+18:47:51 Synchronizing Folder 'Outbox'
+18:47:51 Synchronizing Folder 'Sent Items'
+18:47:51 	   3 item(s) added to offline folder
+18:47:51 	   4 item(s) deleted in offline folder
+18:47:51 	   1 view(s)/form(s) updated in offline folder
+18:47:51 Synchronizing Folder 'Calendar'
+18:47:53 	   2 item(s) added to offline folder
+18:47:53 	   3 item(s) updated in offline folder
+18:47:53 	   4 item(s) deleted in offline folder
+18:47:53 	   1 view(s)/form(s) updated in offline folder
+18:47:53 Synchronizing Folder 'Contacts'
+18:47:53 Synchronizing Folder 'Drafts'
+18:47:53 Synchronizing Folder 'Tasks'
+18:47:53 Synchronizing Folder 'Journal'
+18:47:53 Synchronizing Folder 'Notes'
+18:47:53 Synchronizing Views
+18:47:53 Synchronizing Forms
+18:47:56 Done

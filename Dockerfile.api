@@ -1,0 +1,29 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    libmupdf-dev \
+    tesseract-ocr \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+RUN python -c "import nltk; nltk.download('punkt', quiet=True); nltk.download('punkt_tab', quiet=True); nltk.download('stopwords', quiet=True)" || true
+
+COPY generate_dataset.py .
+COPY src/ ./src/
+COPY data/ ./data/
+
+RUN mkdir -p data/raw_emails data/attachments data/index data/sample_slice runs
+
+RUN cd /app && python generate_dataset.py
+
+EXPOSE 8000
+
+ENV PYTHONPATH=/app/src
+
+CMD ["uvicorn", "src.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]

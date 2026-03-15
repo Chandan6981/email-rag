@@ -1,0 +1,57 @@
+PDF_PLACEHOLDER:network_upgrade_plan.pdf
+PAGE_1_START
+ENRON CORPORATION IT DEPARTMENT
+NETWORK INFRASTRUCTURE UPGRADE PROJECT PLAN
+Project Code: IT-2001-NET-001
+Date: November 1, 2001
+
+PROJECT OVERVIEW
+This document outlines the plan to upgrade Enron's core trading network from 
+1 Gigabit per second (1Gbps) to 10 Gigabit per second (10Gbps) across all 
+three primary data centers.
+
+PROJECT JUSTIFICATION
+Current 1Gbps infrastructure is operating at 85% utilization during peak trading hours,
+which is above the 70% threshold that indicates capacity risk.
+A failure during peak hours could result in trading losses estimated at $2M per hour.
+
+BUDGET SUMMARY
+Total approved budget: $1,800,000
+Hardware: $1,380,000
+Installation and labor: $180,000
+Warranty and support: $240,000
+
+TIMELINE SUMMARY
+Phase 1: Houston Data Center - November 15-16, 2001
+Phase 2: New York Data Center - December 13-14, 2001
+Phase 3: London Data Center - January 10-11, 2002
+PAGE_1_END
+PAGE_2_START
+DETAILED PHASE PLAN
+
+PHASE 1: HOUSTON DATA CENTER
+Start Date: November 15, 2001 (10 PM CST)
+Expected Completion: November 16, 2001 (4 AM CST)
+Maximum Downtime: 4 hours
+Network Load Handled: 65% of daily trading volume
+
+Equipment List:
+4x Cisco Catalyst 6509 chassis
+8x 10GE fiber optic line cards
+1000 meters OM3 multimode fiber cable
+
+ROLLBACK PROCEDURE:
+If issues arise, original 1Gbps switches remain in place as fallback.
+Rollback can be completed in 45 minutes.
+Point of no return: 1:00 AM - if upgrade not complete by then, rollback initiated.
+
+PHASE 2: NEW YORK DATA CENTER
+Start Date: December 13, 2001 (11 PM EST)
+Expected Completion: December 14, 2001 (3 AM EST)
+Network Load Handled: 25% of daily trading volume
+
+PHASE 3: LONDON DATA CENTER  
+Start Date: January 10, 2002 (11 PM GMT)
+Expected Completion: January 11, 2002 (3 AM GMT)
+Network Load Handled: 10% of daily trading volume
+PAGE_2_END

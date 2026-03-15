@@ -1,0 +1,47 @@
+=== PAGE 1 ===
+CISCO SYSTEMS, INC.
+OFFICIAL VENDOR QUOTATION
+Quote Number: CISCO-ENR-2001-1105
+Date: November 5, 2001
+Valid Until: November 30, 2001
+
+BILL TO:
+Enron Corporation
+1400 Smith Street
+Houston, TX 77002
+
+QUOTE SUMMARY - NETWORK INFRASTRUCTURE UPGRADE
+
+LINE ITEMS:
+1. Cisco Catalyst 6509 Switch Chassis (x12)
+   Unit Price: $60,000 | Total: $720,000
+   
+2. Cisco WS-X6716-10GE 10GE Line Cards (x24)
+   Unit Price: $20,000 | Total: $480,000
+
+3. OM3 Multimode Fiber Cabling and Patch Panels
+   Total: $180,000
+
+=== PAGE 2 ===
+4. Professional Services - Installation and Configuration
+   Engineering days: 30 days at $6,000/day
+   Total: $180,000
+
+5. Cisco SMARTnet 3-Year Extended Warranty
+   Coverage: 24x7x4 hour hardware replacement
+   Total: $240,000
+
+QUOTE TOTAL: $1,800,000 USD
+
+PAYMENT TERMS: Net 30 days from delivery
+DELIVERY: 4-6 weeks from purchase order
+
+AUTHORIZED SIGNATURE REQUIRED BY: November 30, 2001
+
+This quote is valid for 30 days. All prices in USD.
+Prices subject to change if order not received by validity date.
+
+Cisco Systems, Inc.
+Account Manager: Michael Torres
+Email: m.torres@cisco.com | Phone: 408-555-0192
+

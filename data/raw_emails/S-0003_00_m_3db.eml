@@ -1,0 +1,25 @@
+From: it.dept@enron.com
+To: operations@enron.com
+Subject: Network Infrastructure Upgrade Project
+Message-ID: <3dbb3374@enron.com>
+Date: Mon, 01 Oct 2001 00:00:00 -0600
+Thread-ID: S-0003
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Operations Team,
+
+The network infrastructure upgrade project has been approved. 
+We will be upgrading the core trading network from 1Gbps to 10Gbps across all three data centers.
+
+Project timeline:
+- Phase 1 (Nov 2001): Houston data center upgrade
+- Phase 2 (Dec 2001): New York data center upgrade  
+- Phase 3 (Jan 2002): London data center upgrade
+
+Total budget approved: $1.8 million
+Vendor selected: Cisco Systems
+
+Please see the attached project plan for detailed milestones.
+
+IT Department

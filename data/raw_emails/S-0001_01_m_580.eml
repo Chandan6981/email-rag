@@ -1,0 +1,21 @@
+From: greg.whalley@enron.com
+To: john.lavorato@enron.com, finance.team@enron.com
+Subject: Re: Storage Vendor Contract Approval
+Message-ID: <5803dbb3@enron.com>
+Date: Tue, 02 Oct 2001 00:00:00 -0600
+Thread-ID: S-0001
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+In-Reply-To: <3708e605@enron.com>
+
+John,
+
+I reviewed the EMC proposal. The pricing seems reasonable for this capacity.
+
+However, I have concerns about the SLA terms. 99.9% uptime translates to roughly 8.7 hours of 
+downtime per year which may not meet our trading desk requirements during peak hours.
+
+I am forwarding this to finance for budget approval. We should also loop in legal to review 
+the contract terms before signing.
+
+Greg

@@ -1,0 +1,103 @@
+{
+  "description": "Sample evaluation conversations for the Email Thread RAG system",
+  "conversations": [
+    {
+      "thread_id": "T-0001",
+      "thread_subject": "Storage Vendor Contract Approval",
+      "turns": [
+        {
+          "u": "What did finance finally approve for the storage vendor?",
+          "expect": {
+            "must_include": ["approved", "2.4 million", "EMC"],
+            "must_cite_type": ["email", "attachment"],
+            "notes": "Should cite the finance approval email and the approval memo PDF"
+          }
+        },
+        {
+          "u": "ok, and when was that approval sent?",
+          "expect": {
+            "must_include": ["October 15", "2001"],
+            "must_cite_type": ["email"],
+            "notes": "Pronoun 'that' should resolve to the finance approval; date from the memo"
+          }
+        },
+        {
+          "u": "compare it with the draft in the earlier attachment",
+          "expect": {
+            "must_include": ["proposal", "difference"],
+            "must_cite_type": ["attachment"],
+            "notes": "Should compare storage_proposal_v1.pdf with approval_memo_final.pdf or contract"
+          }
+        },
+        {
+          "u": "What SLA penalty did legal negotiate?",
+          "expect": {
+            "must_include": ["5%", "monthly"],
+            "must_cite_type": ["attachment"],
+            "notes": "From contract_redline_v2.pdf section 4.2"
+          }
+        },
+        {
+          "u": "Who approved it at the CFO level?",
+          "expect": {
+            "must_include": ["Andrew Fastow"],
+            "must_cite_type": ["attachment"],
+            "notes": "From approval_memo_final.pdf page 1"
+          }
+        },
+        {
+          "u": "Show me a timeline of this thread",
+          "expect": {
+            "must_include": ["timeline"],
+            "must_cite_type": ["email"],
+            "notes": "Should list events in chronological order with citations"
+          }
+        },
+        {
+          "u": "What was the original uptime guarantee?",
+          "expect": {
+            "must_include": ["99.9%"],
+            "must_cite_type": ["attachment"],
+            "notes": "From storage_proposal_v1.pdf page 2"
+          }
+        },
+        {
+          "u": "What is the quarterly payment amount?",
+          "expect": {
+            "must_include": ["200,000"],
+            "must_cite_type": ["attachment"],
+            "notes": "From approval_memo_final.pdf - $200,000 per quarter"
+          }
+        }
+      ]
+    },
+    {
+      "thread_id": "T-0003",
+      "thread_subject": "Network Infrastructure Upgrade Project",
+      "turns": [
+        {
+          "u": "What is the total budget for the network upgrade?",
+          "expect": {
+            "must_include": [["1.8 million", "1,800,000", "1800000"]],
+            "must_cite_type": ["email", "attachment"]
+          }
+        },
+        {
+          "u": "Which data center is being upgraded first?",
+          "expect": {
+            "must_include": ["Houston"],
+            "must_cite_type": ["attachment"]
+          }
+        },
+        {
+          "u": "What is the rollback time if something goes wrong?",
+          "expect": {
+            "must_include": ["45 minutes"],
+            "must_cite_type": ["attachment"],
+            "notes": "From network_upgrade_plan.pdf page 2"
+          }
+        }
+      ]
+    }
+  ]
+}

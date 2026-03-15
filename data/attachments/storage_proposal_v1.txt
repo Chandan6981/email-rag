@@ -1,0 +1,49 @@
+=== PAGE 1 ===
+EMC CORPORATION STORAGE PROPOSAL
+Date: October 1, 2001
+Prepared for: Enron Corporation
+
+EXECUTIVE SUMMARY
+
+EMC Corporation is pleased to present this proposal for enterprise storage infrastructure 
+to support Enron Corporation's growing data requirements.
+
+PROPOSED SOLUTION: EMC Symmetrix DMX-1000
+
+Capacity: 500 Terabytes raw storage
+Usable capacity: 400 Terabytes after RAID overhead
+Configuration: 10x EMC Symmetrix DMX-1000 arrays
+
+PRICING SUMMARY
+Total contract value: $2,400,000 USD over 36 months
+Year 1: $900,000 (includes setup and migration)
+Year 2: $750,000
+Year 3: $750,000
+Annual maintenance fee: $120,000 (included in above)
+
+=== PAGE 2 ===
+SERVICE LEVEL AGREEMENT
+
+EMC Corporation guarantees the following service levels:
+
+1. UPTIME GUARANTEE: 99.9% availability measured monthly
+   Calculated downtime allowance: 8.76 hours per year maximum
+   
+2. SUPPORT RESPONSE TIMES:
+   Critical issues (P1): 2 hour on-site response, 24x7
+   High priority (P2): 4 hour response, business hours
+   Normal (P3): Next business day
+
+3. DATA MIGRATION SUPPORT:
+   EMC will provide migration engineers for the first 90 days
+   Migration from existing NetApp infrastructure at no additional cost
+   
+4. PERFORMANCE BENCHMARKS:
+   Sequential read: 8 GB/s sustained
+   Sequential write: 6 GB/s sustained
+   Random IOPS: 250,000 at 4KB block size
+
+ACCEPTANCE TERMS
+This proposal is valid for 30 days from submission date.
+Contract signature required by November 1, 2001.
+

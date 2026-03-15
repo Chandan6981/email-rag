@@ -1,0 +1,167 @@
+[
+  {
+    "message_id": "<3708e605@enron.com>",
+    "short_id": "m_370",
+    "thread_id": "S-0001",
+    "subject": "Storage Vendor Contract Approval",
+    "from": "john.lavorato@enron.com",
+    "to": [
+      "greg.whalley@enron.com"
+    ],
+    "date": "2001-10-01T00:00:00",
+    "body": "Greg,\n\nWe need to finalize the storage vendor contract by end of month. The vendor EMC Corp has submitted \na revised proposal for 500TB of enterprise storage at a total cost of $2.4 million over 3 years.\n\nKey points from their proposal:\n- Annual maintenance fee: $120,000\n- SLA: 99.9% uptime guarantee\n- Data migration support included in Year 1\n\nPlease review the attached proposal document and let me know your thoughts.\n\nJohn",
+    "attachments": [
+      "storage_proposal_v1.pdf"
+    ],
+    "filename": "S-0001_00_m_370.eml"
+  },
+  {
+    "message_id": "<5803dbb3@enron.com>",
+    "short_id": "m_580",
+    "thread_id": "S-0001",
+    "subject": "Re: Storage Vendor Contract Approval",
+    "from": "greg.whalley@enron.com",
+    "to": [
+      "john.lavorato@enron.com",
+      "finance.team@enron.com"
+    ],
+    "date": "2001-10-02T00:00:00",
+    "body": "John,\n\nI reviewed the EMC proposal. The pricing seems reasonable for this capacity.\n\nHowever, I have concerns about the SLA terms. 99.9% uptime translates to roughly 8.7 hours of \ndowntime per year which may not meet our trading desk requirements during peak hours.\n\nI am forwarding this to finance for budget approval. We should also loop in legal to review \nthe contract terms before signing.\n\nGreg",
+    "attachments": [],
+    "filename": "S-0001_01_m_580.eml"
+  },
+  {
+    "message_id": "<164be4cd@enron.com>",
+    "short_id": "m_164",
+    "thread_id": "S-0001",
+    "subject": "Re: Storage Vendor Contract Approval",
+    "from": "finance.team@enron.com",
+    "to": [
+      "john.lavorato@enron.com",
+      "greg.whalley@enron.com"
+    ],
+    "date": "2001-10-15T00:00:00",
+    "body": "John, Greg,\n\nFinance has reviewed the storage vendor proposal from EMC Corp.\n\nAfter reviewing the attached budget impact analysis, we have approved the contract for $2.4 million \nover 3 years, subject to the following conditions:\n\n1. Payment schedule: $800,000 per year, billed quarterly at $200,000\n2. Early termination clause must be included with 90-day notice period\n3. Performance penalties for SLA breaches must be clearly defined\n\nPlease see the attached approval memo (approval_memo_final.pdf) for the official sign-off.\n\nThe approval was granted on October 15, 2001 by CFO Andrew Fastow.\n\nRegards,\nFinance Team",
+    "attachments": [
+      "approval_memo_final.pdf",
+      "budget_impact_analysis.pdf"
+    ],
+    "filename": "S-0001_02_m_164.eml"
+  },
+  {
+    "message_id": "<658dcd19@enron.com>",
+    "short_id": "m_658",
+    "thread_id": "S-0001",
+    "subject": "Re: Storage Vendor Contract Approval",
+    "from": "legal.dept@enron.com",
+    "to": [
+      "john.lavorato@enron.com",
+      "greg.whalley@enron.com",
+      "finance.team@enron.com"
+    ],
+    "date": "2001-10-21T00:00:00",
+    "body": "All,\n\nLegal has completed the review of the EMC Corp storage contract.\n\nWe identified two items that need clarification:\n1. Section 4.2 of the contract defines SLA penalties at 5% monthly credit for each hour below \n   the 99.9% threshold. This aligns with our standard vendor terms.\n2. The data ownership clause in Section 7 needs an addendum to clarify that all stored data \n   remains property of Enron Corporation.\n\nWe have prepared a redlined version of the contract (contract_redline_v2.pdf). \nPlease review and confirm if these changes are acceptable to EMC.\n\nTarget signing date: November 1, 2001.\n\nLegal Department",
+    "attachments": [
+      "contract_redline_v2.pdf"
+    ],
+    "filename": "S-0001_03_m_658.eml"
+  },
+  {
+    "message_id": "<ea662c75@enron.com>",
+    "short_id": "m_ea6",
+    "thread_id": "S-0002",
+    "subject": "Q4 Budget Review Meeting",
+    "from": "kenneth.lay@enron.com",
+    "to": [
+      "jeff.skilling@enron.com",
+      "richard.causey@enron.com"
+    ],
+    "date": "2001-10-01T00:00:00",
+    "body": "Jeff, Richard,\n\nWe need to schedule the Q4 budget review meeting. Based on our Q3 performance, \nwe exceeded revenue targets by 12% at $32.5 billion.\n\nI propose we meet on October 22, 2001 to discuss Q4 projections.\n\nKey agenda items:\n1. Q3 actuals vs budget variance analysis\n2. Q4 revenue projections by business unit\n3. Capital expenditure review for infrastructure projects\n\nPlease find the preliminary Q3 financial summary attached.\n\nKen",
+    "attachments": [
+      "q3_financial_summary.pdf"
+    ],
+    "filename": "S-0002_00_m_ea6.eml"
+  },
+  {
+    "message_id": "<47edf5fb@enron.com>",
+    "short_id": "m_47e",
+    "thread_id": "S-0002",
+    "subject": "Re: Q4 Budget Review Meeting",
+    "from": "jeff.skilling@enron.com",
+    "to": [
+      "kenneth.lay@enron.com",
+      "richard.causey@enron.com"
+    ],
+    "date": "2001-10-03T00:00:00",
+    "body": "Ken,\n\nOctober 22 works for me. \n\nOn Q3 performance, the trading division contributed $18.2 billion, which was above our \n$16 billion target. The broadband division however missed its target by $450 million due to \nlower than expected fiber optic demand.\n\nFor Q4, I project overall revenues between $30 and $34 billion assuming stable energy prices.\n\nJeff",
+    "attachments": [],
+    "filename": "S-0002_01_m_47e.eml"
+  },
+  {
+    "message_id": "<f3f0eee5@enron.com>",
+    "short_id": "m_f3f",
+    "thread_id": "S-0002",
+    "subject": "Re: Q4 Budget Review Meeting",
+    "from": "richard.causey@enron.com",
+    "to": [
+      "kenneth.lay@enron.com",
+      "jeff.skilling@enron.com"
+    ],
+    "date": "2001-10-04T00:00:00",
+    "body": "Ken, Jeff,\n\nMeeting confirmed for October 22 at 2:00 PM in Conference Room B, 50th floor.\n\nI have attached the full Q3 variance report and the draft Q4 budget template \nfor review before the meeting.\n\nThe variance report shows that operating expenses came in at $28.1 billion, \nwhich is $1.2 billion over budget, primarily due to increased energy procurement costs.\n\nRichard",
+    "attachments": [
+      "q3_variance_report.pdf",
+      "q4_budget_template.xlsx"
+    ],
+    "filename": "S-0002_02_m_f3f.eml"
+  },
+  {
+    "message_id": "<3dbb3374@enron.com>",
+    "short_id": "m_3db",
+    "thread_id": "S-0003",
+    "subject": "Network Infrastructure Upgrade Project",
+    "from": "it.dept@enron.com",
+    "to": [
+      "operations@enron.com"
+    ],
+    "date": "2001-10-01T00:00:00",
+    "body": "Operations Team,\n\nThe network infrastructure upgrade project has been approved. \nWe will be upgrading the core trading network from 1Gbps to 10Gbps across all three data centers.\n\nProject timeline:\n- Phase 1 (Nov 2001): Houston data center upgrade\n- Phase 2 (Dec 2001): New York data center upgrade  \n- Phase 3 (Jan 2002): London data center upgrade\n\nTotal budget approved: $1.8 million\nVendor selected: Cisco Systems\n\nPlease see the attached project plan for detailed milestones.\n\nIT Department",
+    "attachments": [
+      "network_upgrade_plan.pdf"
+    ],
+    "filename": "S-0003_00_m_3db.eml"
+  },
+  {
+    "message_id": "<ecbe6ca2@enron.com>",
+    "short_id": "m_ecb",
+    "thread_id": "S-0003",
+    "subject": "Re: Network Infrastructure Upgrade Project",
+    "from": "operations@enron.com",
+    "to": [
+      "it.dept@enron.com",
+      "procurement@enron.com"
+    ],
+    "date": "2001-10-06T00:00:00",
+    "body": "IT,\n\nThank you for the project plan. Operations has reviewed the timeline and has \nthe following requirements:\n\n1. Upgrades must be scheduled during off-peak hours (10 PM to 4 AM)\n2. Maximum acceptable downtime per data center: 4 hours\n3. Rollback plan must be in place for each phase\n\nWe are particularly concerned about the Houston upgrade given that it handles \n65% of our daily trading volume. Please confirm the rollback procedures are documented.\n\nAlso looping in Procurement to handle the Cisco equipment orders.\n\nOperations",
+    "attachments": [],
+    "filename": "S-0003_01_m_ecb.eml"
+  },
+  {
+    "message_id": "<d9d7ad11@enron.com>",
+    "short_id": "m_d9d",
+    "thread_id": "S-0003",
+    "subject": "Re: Network Infrastructure Upgrade Project",
+    "from": "procurement@enron.com",
+    "to": [
+      "it.dept@enron.com",
+      "operations@enron.com"
+    ],
+    "date": "2001-10-09T00:00:00",
+    "body": "Team,\n\nProcurement has received the equipment list from the network upgrade plan.\n\nCisco quote summary:\n- 12x Cisco Catalyst 6509 switches: $720,000\n- 24x 10GE line cards: $480,000\n- Fiber cabling and accessories: $180,000\n- Installation and configuration: $180,000\n- Extended warranty 3 years: $240,000\nTotal: $1,800,000\n\nThis matches the approved budget exactly. \n\nWe need a purchase order sign-off by October 31 to meet the November delivery deadline.\nThe attached vendor quote document contains the full part numbers and specifications.\n\nProcurement",
+    "attachments": [
+      "cisco_vendor_quote.pdf"
+    ],
+    "filename": "S-0003_02_m_d9d.eml"
+  }
+]

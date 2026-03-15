@@ -1,0 +1,25 @@
+From: operations@enron.com
+To: it.dept@enron.com, procurement@enron.com
+Subject: Re: Network Infrastructure Upgrade Project
+Message-ID: <ecbe6ca2@enron.com>
+Date: Sat, 06 Oct 2001 00:00:00 -0600
+Thread-ID: S-0003
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+In-Reply-To: <3dbb3374@enron.com>
+
+IT,
+
+Thank you for the project plan. Operations has reviewed the timeline and has 
+the following requirements:
+
+1. Upgrades must be scheduled during off-peak hours (10 PM to 4 AM)
+2. Maximum acceptable downtime per data center: 4 hours
+3. Rollback plan must be in place for each phase
+
+We are particularly concerned about the Houston upgrade given that it handles 
+65% of our daily trading volume. Please confirm the rollback procedures are documented.
+
+Also looping in Procurement to handle the Cisco equipment orders.
+
+Operations

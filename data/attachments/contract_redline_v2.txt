@@ -1,0 +1,47 @@
+=== PAGE 1 ===
+EMC CORPORATION - ENRON CORPORATION
+ENTERPRISE STORAGE SERVICES AGREEMENT
+Version: 2.0 (Legal Redline)
+Date: October 20, 2001
+
+SECTION 1 - PARTIES
+This agreement is entered into between EMC Corporation (VENDOR) 
+and Enron Corporation (CUSTOMER).
+
+SECTION 2 - SERVICES  
+Vendor will provide 500TB enterprise storage infrastructure as specified in 
+Schedule A attached hereto.
+
+SECTION 3 - TERM
+Initial term: 36 months commencing on the Service Commencement Date.
+Renewal: Automatic 12-month renewal unless 90-day written notice provided.
+
+SECTION 4 - SERVICE LEVELS
+4.1 Uptime: Vendor guarantees 99.9% monthly availability.
+4.2 SLA PENALTIES [REDLINED]: 
+    Original: 2% monthly credit per hour of downtime below threshold
+    REVISED: 5% monthly credit per hour of downtime below threshold
+    [Legal note: Revised to align with Enron standard vendor terms]
+
+=== PAGE 2 ===
+SECTION 7 - DATA OWNERSHIP [REDLINED]
+Original text: Data stored on Vendor infrastructure may be accessed by Vendor 
+for system maintenance purposes.
+
+REVISED TEXT: All data stored on Vendor infrastructure remains the exclusive 
+property of Enron Corporation. Vendor shall have no right to access, copy, or 
+disclose Customer data except as strictly necessary for providing contracted services.
+[Legal note: Critical revision - addendum required to confirm data ownership]
+
+SECTION 8 - TERMINATION
+8.1 Either party may terminate with 90 days written notice.
+8.2 Customer may terminate immediately for material breach.
+8.3 Early termination fee: 20% of remaining contract value.
+
+SECTION 9 - GOVERNING LAW
+This agreement shall be governed by Texas state law.
+
+SIGNATURE PAGE
+Pending legal review completion and amendment to Section 7.
+Target execution date: November 1, 2001.
+

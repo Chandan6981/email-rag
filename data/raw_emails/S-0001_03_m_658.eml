@@ -1,0 +1,26 @@
+From: legal.dept@enron.com
+To: john.lavorato@enron.com, greg.whalley@enron.com, finance.team@enron.com
+Subject: Re: Storage Vendor Contract Approval
+Message-ID: <658dcd19@enron.com>
+Date: Sun, 21 Oct 2001 00:00:00 -0600
+Thread-ID: S-0001
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+In-Reply-To: <164be4cd@enron.com>
+
+All,
+
+Legal has completed the review of the EMC Corp storage contract.
+
+We identified two items that need clarification:
+1. Section 4.2 of the contract defines SLA penalties at 5% monthly credit for each hour below 
+   the 99.9% threshold. This aligns with our standard vendor terms.
+2. The data ownership clause in Section 7 needs an addendum to clarify that all stored data 
+   remains property of Enron Corporation.
+
+We have prepared a redlined version of the contract (contract_redline_v2.pdf). 
+Please review and confirm if these changes are acceptable to EMC.
+
+Target signing date: November 1, 2001.
+
+Legal Department

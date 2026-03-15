@@ -1,0 +1,26 @@
+=== PAGE 1 ===
+BUDGET IMPACT ANALYSIS
+Storage Vendor Contract - EMC Corporation
+Prepared by: Finance Team
+Date: October 12, 2001
+
+CURRENT STATE ANALYSIS
+Current storage costs (NetApp infrastructure):
+Annual hardware lease: $680,000
+Annual maintenance and support: $210,000
+IT staff time for management: $95,000 (estimated)
+Total current annual cost: $985,000
+
+PROPOSED STATE ANALYSIS  
+EMC contract annual cost: $800,000 (average over 3 years)
+Reduction in IT management overhead: $60,000 savings expected
+Net annual cost: $740,000
+
+COST BENEFIT SUMMARY
+Annual savings vs current state: $245,000
+3-year total savings: $735,000
+NPV of savings (discount rate 8%): $633,000
+
+The Finance team recommends approval of this contract based on the favorable 
+cost comparison and the vendor's strong SLA commitments.
+
